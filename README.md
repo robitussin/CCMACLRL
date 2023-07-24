@@ -15,5 +15,9 @@ Course Outline:
 | week_5   | a|
 | week_6   | a|
 | week_7   | a|
-| week_8-9  | a|
-| week_10-13   | a|
+| week_8  | a|
+| week_9  | a|
+| week_10  | a|
+| week_11  | a|
+| week_12  | a|
+| week_13  | a|
