@@ -8,12 +8,12 @@ Course Outline:
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| week_1   | |
-| week_2   | |
-| week_3   | |
-| week_4   | |
-| week_5   | |
-| week_6   | |
-| week_7   | |
-| week_8-9  | |
-| week_10-13   | |
+| week_1   |a |
+| week_2   | a|
+| week_3   | a|
+| week_4   | a|
+| week_5   | a|
+| week_6   | a|
+| week_7   | a|
+| week_8-9  | a|
+| week_10-13   | a|
