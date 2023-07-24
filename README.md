@@ -1,2 +1,2 @@
-# CCMACHLR
+# CCMACLRL
 Machine Learning Course
