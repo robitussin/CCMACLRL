@@ -8,16 +8,12 @@ Course Outline:
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| week_1   |a |
-| week_2   | a|
-| week_3   | a|
-| week_4   | a|
-| week_5   | a|
-| week_6   | a|
-| week_7   | a|
-| week_8  | a|
-| week_9  | a|
-| week_10  | a|
-| week_11  | a|
-| week_12  | a|
-| week_13  | a|
+| 1 | Introduction to Machine Learning |
+| 2 | K Nearest Neighbors|
+| 3 | Simple Linear Regression |
+| 4 | Multiple Linear Regression |
+| 5 | Logistic Regression |
+| 6 | Naive Bayes Algorithm|
+| 7 | Support Vector Machine |
+| 8 | Decision Trees |
+| 9 | Ensemble Learning and Random Forest |
