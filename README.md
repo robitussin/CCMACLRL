@@ -3,7 +3,7 @@
 
 This repository contains all of the python code implementations of each topic in the course outline for introduction to machine learning.
 
-Course Outline:
+Course Outline: https://believed-bongo-319.notion.site/CCMACLRL-0039e9d93e324e7caa2245a93817fac9?pvs=4
 
 
 | Folder Name | Topic |
