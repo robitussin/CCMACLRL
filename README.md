@@ -8,7 +8,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCMACLRL-0039e9d93e324e7c
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| 0 | Basic Python, Pandas |
+| 0 | Basic Python, Pandas, matplotlib |
 | 1 | Introduction to Machine Learning |
 | 2 | K Nearest Neighbors|
 | 3 | Simple Linear Regression |
