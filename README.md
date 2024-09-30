@@ -14,7 +14,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCMACLRL-0039e9d93e324e7c
 | 3 | Simple Linear Regression |
 | 4 | Multiple Linear Regression |
 | 5 | Logistic Regression |
-| 6 | Naive Bayes Algorithm|
+| 6 | Naive Bayes|
 | 7 | Support Vector Machine |
 | 8 | Decision Trees |
 | 9 | Ensemble Learning and Random Forest |
