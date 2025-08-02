@@ -18,4 +18,3 @@ Course Outline: https://believed-bongo-319.notion.site/CCMACLRL-0039e9d93e324e7c
 | 7 | Support Vector Machine |
 | 8 | Decision Trees |
 | 9 | Ensemble Learning and Random Forest |
-d
